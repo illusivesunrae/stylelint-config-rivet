@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-rivet",
+  "name": "stylelint-config-ro",
   "version": "1.0.0",
   "description": "A stylelint configuration set for Rivet-related projects",
   "main": "index.js",
