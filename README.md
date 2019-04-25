@@ -1,5 +1,5 @@
 # stylelint-config-rivet
-This package extends `stylelint-config-recommended` (see [stylelint documentation](https://stylelint.io/#extend-a-shared-configuration)) with rules specific to creating projects within the Rivet extended universe.
+This package extends `stylelint-config-standard` (see [stylelint documentation](https://stylelint.io/#extend-a-shared-configuration)) with rules specific to creating projects within the Rivet extended universe.
 
 ## Installation
 

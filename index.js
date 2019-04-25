@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  extends: 'stylelint-config-recommended',
+  extends: 'stylelint-config-standard',
   defaultSeverity: 'warning',
   rules: {
     'block-closing-brace-newline-after': 'always',
